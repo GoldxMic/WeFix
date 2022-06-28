@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464727833076",
+    "firebase_url": "https://wefix-4b53a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wefix-4b53a",
+    "storage_bucket": "wefix-4b53a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464727833076:android:d65ffb430f17b62d30e1a1",
+        "android_client_info": {
+          "package_name": "com.example.wefix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464727833076-oq937ekpqj9ok02m25mnuvselhqiqgbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuljmclin7nJIkPM9tyZiC4_xoCihJs4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464727833076-oq937ekpqj9ok02m25mnuvselhqiqgbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
